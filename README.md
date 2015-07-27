@@ -1,2 +1,1 @@
-# Trabalhando-com-Ajax-usando-jQuery-no-Wordpress
-Trabalhando com Ajax usando jQuery no Wordpress
+[Trabalhando com Ajax usando jQuery no Wordpress](http://nandomoreira.me/trabalhando-com-ajax-usando-jquery-no-wordpress/)
